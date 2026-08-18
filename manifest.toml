@@ -37,15 +37,6 @@ ram.runtime = "50M"
     type = "group"
     default = "visitors"
 
-    [install.admin]
-    type = "user"
-
-    [install.password]
-    help.en = "Password for the initial administrator account."
-    help.fr = "Mot de passe du compte administrateur initial."
-    type = "password"
-
-
 [resources]
 
     [resources.sources]
