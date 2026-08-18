@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+This is a replacement of the cloud, in case you want to sync/backup your files and have full control of the hosting environment.

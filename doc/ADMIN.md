@@ -1,3 +1,1 @@
-This is a dummy admin doc for this app
-
-The app install dir is `__INSTALL_DIR__`
+The first user entered in the webui will be the admin.
