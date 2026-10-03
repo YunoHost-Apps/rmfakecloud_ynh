@@ -6,7 +6,7 @@ id = "rmfakecloud"
 name = "rmfakecloud"
 description.en = "Host your own cloud for the remarkable"
 
-version = "0.0.31~ynh1"
+version = "0.0.31~ynh2"
 
 maintainers = ["Thovi98"]
 
