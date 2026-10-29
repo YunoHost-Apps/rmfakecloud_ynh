@@ -6,7 +6,7 @@ id = "rmfakecloud"
 name = "rmfakecloud"
 description.en = "Host your own cloud for the remarkable"
 
-version = "0.0.31~ynh2"
+version = "0.0.32~ynh1"
 
 maintainers = ["Thovi98"]
 
@@ -42,14 +42,14 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    amd64.url = "https://github.com/ddvk/rmfakecloud/releases/download/v0.0.31/rmfakecloud-x64"
-    amd64.sha256 = "322baa19f1f1a66fb98e6cd349117ce3e6ece130a697a15a844d2dba6e277c1d"
+    amd64.url = "https://github.com/ddvk/rmfakecloud/releases/download/v0.0.32/rmfakecloud-x64"
+    amd64.sha256 = "7513e429411256ffb13e6eaf86d5a1fd2c2974ee2dc3077656ec79c48d086551"
     
-    arm64.url = "https://github.com/ddvk/rmfakecloud/releases/download/v0.0.31/rmfakecloud-arm64"
-    arm64.sha256 = "6f0ce02142a7dfa20de7377f3b4136b38d1b7acfa8a454dfb28f6c1502481cae"
+    arm64.url = "https://github.com/ddvk/rmfakecloud/releases/download/v0.0.32/rmfakecloud-arm64"
+    arm64.sha256 = "4a3812438e0a3938300de0c88148f99ed4df41176cbdce213d88ab7177ccf10f"
 
-    armhf.url = "https://github.com/ddvk/rmfakecloud/releases/download/v0.0.31/rmfakecloud-armv7"
-    armhf.sha256 = "c491aa26c04003b71c0876036941131f4613a5b2addb24530bb7f772c8c187e6"
+    armhf.url = "https://github.com/ddvk/rmfakecloud/releases/download/v0.0.32/rmfakecloud-armv7"
+    armhf.sha256 = "363e1fa4ca9656d5deab360acdf32c18a12c33fbdb74e74c5228ed7475d6286f"
     
     in_subdir = false
     rename = "rmfakecloud"
